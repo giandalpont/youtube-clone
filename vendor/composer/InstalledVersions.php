@@ -20,7 +20,7 @@ private static $installed = array (
     array (
     ),
     'reference' => NULL,
-    'name' => 'yiisoft/yii2-app-basic',
+    'name' => 'yiisoft/yii2-app-advanced',
   ),
   'versions' => 
   array (
@@ -149,15 +149,6 @@ private static $installed = array (
       array (
       ),
       'reference' => '8c2c9b49d20b6e2d61e926a16b1bf2cee5f4db9c',
-    ),
-    'codeception/specify' => 
-    array (
-      'pretty_version' => '0.4.6',
-      'version' => '0.4.6.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '21b586f503ca444aa519dd9cafb32f113a05f286',
     ),
     'codeception/stub' => 
     array (
@@ -758,7 +749,7 @@ private static $installed = array (
       ),
       'reference' => '7c3b93b57e568509a7cb5cef826d8c424a779f3f',
     ),
-    'yiisoft/yii2-app-basic' => 
+    'yiisoft/yii2-app-advanced' => 
     array (
       'pretty_version' => '2.0.39',
       'version' => '2.0.39.0',
